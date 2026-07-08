@@ -4,8 +4,7 @@ Site Zaban Azar
 This project uses vanilla JavaScript to create an interactive and modern landing page experience without relying on external libraries.
 
 
-A modern and lightweight **spotlight cursor effect** built with vanilla HTML, CSS, and JavaScript.  
-This project creates a smooth glowing light that follows the mouse movement, inspired by Apple-style UI interactions.
+
 
 ---
 
